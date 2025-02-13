@@ -6,6 +6,7 @@
 # 💻 Tech Stack:
 ![C](https://img.icons8.com/fluency/50/c-programming.png) ![C++](https://img.icons8.com/color/50/c-plus-plus-logo.png) ![C#](https://img.icons8.com/nolan/50/c-sharp-logo.png) ![Java](https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png) ![Spring](https://img.icons8.com/color/50/spring-logo.png) ![Unity](https://img.icons8.com/ios-filled/50/unity.png) ![HTML5](https://img.icons8.com/color/50/html-5--v1.png) ![CSS3](https://img.icons8.com/color/50/css3.png) ![JavaScript](https://img.icons8.com/color/50/javascript--v1.png)
 ![MongoDB](https://img.icons8.com/color/50/mongodb.png) 
+![Python](https://img.icons8.com/color/50/python.png) 
 ![MySQL](https://img.icons8.com/color/50/mysql-logo.png)
 ![Git](https://img.icons8.com/color/50/git.png) 
 
