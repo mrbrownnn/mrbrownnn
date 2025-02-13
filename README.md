@@ -9,6 +9,7 @@
 ![Python](https://img.icons8.com/color/50/python.png) 
 ![MySQL](https://img.icons8.com/color/50/mysql-logo.png)
 ![Git](https://img.icons8.com/color/50/git.png) 
+![Docker](https://img.icons8.com/color/50/docker.png)
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
