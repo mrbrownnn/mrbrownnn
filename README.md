@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm Thanh <br>📚 I'm studying at Post and Telecommunication Institute of Technology.<br>📘 Life Perspective: "What doesn't kill you makes you stronger".<br>🔍 My Specialty: Back-end Development. <br>
+🚀 I'm Thanh <br>📚 I'm studying at Post and Telecommunication Institute of Technology.<br>📘 Life Perspective: "What doesn't kill you makes you stronger".<br>🔍 My Specialty: Back-end Development & Game Development. <br>
 
 
 
