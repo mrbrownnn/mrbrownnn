@@ -1,32 +1,27 @@
 # 💫 About Me:
-🚀 I'm Thanh <br>📚 I'm studying at Post and Telecommunication Institute of Technology.<br>📘 Life Perspective: "What doesn't kill you makes you stronger".<br>🔍 My Specialty: AI Engineer & Game Development. <br>
+🔭 I’m currently studying at Post and Telecommunication Institute of Technology<br>🤝 I’m looking to collaborate on applied AI / ML systems  <br>🤝 I’m looking for help with advanced ML techniques  <br>🌱 I’m currently learning deep learning & model deployment  <br>💬 Ask me about Python, machine learning, and AI systems  <br>⚡ Fun fact: I started with game development, now AI is my main focus<br>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/phamthanh43/) 
 
 # 💻 Tech Stack:
-![C](https://img.icons8.com/fluency/50/c-programming.png) ![C++](https://img.icons8.com/color/50/c-plus-plus-logo.png) ![C#](https://img.icons8.com/nolan/50/c-sharp-logo.png) ![Java](https://img.icons8.com/color/50/java-coffee-cup-logo--v1.png) ![Spring](https://img.icons8.com/color/50/spring-logo.png) ![Unity](https://img.icons8.com/ios-filled/50/unity.png) ![HTML5](https://img.icons8.com/color/50/html-5--v1.png) ![CSS3](https://img.icons8.com/color/50/css3.png) ![JavaScript](https://img.icons8.com/color/50/javascript--v1.png)
-![MongoDB](https://img.icons8.com/color/50/mongodb.png) 
-![Python](https://img.icons8.com/color/50/python.png) 
-![MySQL](https://img.icons8.com/color/50/mysql-logo.png)
-![Git](https://img.icons8.com/color/50/git.png) 
-![Docker](https://img.icons8.com/color/50/docker.png)
-![Jupyter](https://img.icons8.com/?size=50&id=J0SgMWzAxqFj&format=png&color=000000)
-
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=mrbrownnn&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrownnn&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mrbrownnn&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrownnn&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrbrownnn&theme=flat)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrbrownnn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-profile-trophy.vercel.app/?username=mrbrownnn&theme=default&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=mrbrownnn&icon=2&color=4)](https://visitcount.itsvg.in)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=mrbrownnn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-------
+---
+[![](https://visitcount.itsvg.in/api?id=mrbrownnn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
