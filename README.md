@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I'm Thanh <br>📚 I'm studying at Post and Telecommunication Institute of Technology.<br>📘 Life Perspective: "What doesn't kill you makes you stronger".<br>🔍 My Specialty: Back-end Development & Game Development. <br>
+🚀 I'm Thanh <br>📚 I'm studying at Post and Telecommunication Institute of Technology.<br>📘 Life Perspective: "What doesn't kill you makes you stronger".<br>🔍 My Specialty: AI Engineer & Game Development. <br>
 
 
 
@@ -14,11 +14,11 @@
 
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrbrownnn&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrbrownnn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrownnn&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://streak-stats.demolab.com/?user=mrbrownnn&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrbrownnn&layout=compact&langs_count=8)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mrbrownnn&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mrbrownnn&theme=flat)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mrbrownnn&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
