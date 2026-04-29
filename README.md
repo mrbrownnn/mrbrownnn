@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying at Post and Telecommunication Institute of Technology<br>🤝 I’m looking to collaborate on applied AI / ML systems  <br>🤝 I’m looking for help with advanced ML techniques  <br>🌱 I’m currently learning agenticAI & AI Application  <br>💬 Ask me about Python, machine learning, and AI systems  <br>⚡ Fun fact: I started with game development, now AI is my main focus<br>
+🔭 I’m currently studying at Post and Telecommunication Institute of Technology<br>🤝 I’m looking to collaborate on applied AI / ML systems  <br>🤝 I’m looking for help with advanced ML techniques  <br>🌱 I’m currently learning genAI & AI Application  <br>💬 Ask me about Python, machine learning, and AI systems  <br>⚡ Fun fact: I started with game development, now AI is my main focus<br>
 
 
 ## 🌐 Socials:
