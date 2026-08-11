@@ -1,7 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently studying at Post and Telecommunication Institute of Technology<br>🤝 I’m looking to collaborate on applied AI / ML systems  <br>🤝 I’m looking for help with advanced ML techniques  <br>🌱 I’m currently learning genAI & AI Application  <br>💬 Ask me about Python, machine learning, and AI systems  <br>⚡ Fun fact: I started with game development, now AI is my main focus<br>
 
-
+🔭 I’m currently working on applied AI & AI application systems<br>
+🤖 3+ years of experience across software engineering and AI, building real-world applications and systems<br>
+🧠 Exploring GenAI, LLM applications, RAG, multi-agent systems, and AI engineering<br>
+💻 Shipped 5+ products for real-world clients, from backend services to AI-powered applications<br>
+🏗️ Experienced in backend development, system design, distributed systems, and monolithic architectures<br>
+⚙️ Worked with Kafka, Docker, Kubernetes, and production-oriented system architectures<br>
+🤝 I’m looking to collaborate on applied AI / ML projects<br>
+💬 Ask me about AI systems, Python, backend engineering, and machine learning<br>
+🎓 Graduated from Posts and Telecommunications Institute of Technology<br>
+⚡ Fun fact: I started with game development, and eventually found my way into AI
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phamthanh43/) 
 
