@@ -3,7 +3,7 @@
 🔭 I’m currently working on applied AI & AI application systems<br>
 🤖 3+ years of experience across software engineering and AI, building real-world applications and systems<br>
 🧠 Exploring GenAI, LLM applications, RAG, multi-agent systems, and AI engineering<br>
-💻 Co-founder Sen Viet JSC, Shipped 5+ products for real-world clients, from backend services to AI-powered applications<br>
+💻 Co-founder Sen Viet .SW JSC, Shipped 5+ products for real-world clients, from backend services to AI-powered applications<br>
 🏗️ Experienced in backend development, system design, distributed systems, and monolithic architectures<br>
 ⚙️ Worked with Kafka, Docker, Kubernetes, and production-oriented system architectures<br>
 🤝 I’m looking to collaborate on applied AI / ML / LLM projects<br>
